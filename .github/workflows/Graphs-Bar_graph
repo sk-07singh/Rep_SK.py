@@ -1,0 +1,9 @@
+# Bar Graph/Plot
+  import matplotlib.pyplot as plt
+  names = ["Akash","Sahdev","Abhinav","Veru","Mayank"]
+  weight = [65,80,55,72,80]
+  plt.bar(names,weight,color=["b","red","g","gold","k"])
+  plt.title("Name vs Weight")
+  plt.xlabel("< - - -  Names  - - - >")
+  plt.ylabel("Weight")
+
