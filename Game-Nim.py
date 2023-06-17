@@ -1,4 +1,4 @@
-
+#     ---  NIM --- (Click the sticks)
 import turtle
 import random
 import time
